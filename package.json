@@ -1,0 +1,12 @@
+{
+  "name": "opsitsdevops",
+  "version": "1.0.0",
+  "description": "comp 2156 lab exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Ritik Kamboj",
+  "license": "ISC"
+}
